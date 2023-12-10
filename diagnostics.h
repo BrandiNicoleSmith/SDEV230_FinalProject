@@ -1,23 +1,14 @@
 #ifndef DIAGNOSTICS_H
-#define DIAGNOSTIC_H
+#define DIAGNOSTICS_H
 
-using namespace std;
+#include "inventory.h" // Include the inventory header file
 
+class inventory; // Forward declaration of the inventory class
 
-
-
-class diagnostics{
-
-
-
-
-
-
-
-
-
+class diagnostics
+{
+public:
+    void masterTest(inventory& inv);
 };
-
-
 
 #endif

@@ -1,14 +1,5 @@
-username user
-password 1234
-
-username jeff
-password enterprise
-
-username brandi
-password voyager
-
-username charles
-password defiant
-
-username reina
-password excelsior
+username user password 1234 
+username jeff password enterprise
+username brandi password voyager
+username charles password defiant
+username reina password scimitar

@@ -11,18 +11,13 @@ class user{
 
 public:
 
-void setUsername(string& user) const;
-void setPassword(string& pass) const;
+void setUsername(string name);
+void setPassword(string pass);
 string getUserName() const {return userName;}
 string getPassword() const {return password;}
-user(){userName = " "; password = " ";}
-user(string, string);
-
-
-
-
-
-
+user();
+user(string name, string pass);
+bool isValid();
 
 
 
