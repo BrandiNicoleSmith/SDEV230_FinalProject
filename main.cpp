@@ -11,7 +11,7 @@ Include the usage of at least two arrays (10 points). <- done :)
 
 Implement secure coding best practices (10 points). <- done :)
 
-Validation testing (10 points). <- diagnostic file
+Validation testing (10 points). <- done :)
 
 Develop an appropriate set of test data to fully validate the program against.
 The data sets you tested against.
@@ -22,7 +22,7 @@ Do below in final post-coding phase:
 User manual (10 points).<- done :)
 You will write and submit a User's manual for your final project and submit it according to the instructions in the attached file.
 
-Documentation of source code (10 points). <-  
+Documentation of source code (10 points). <-  done :)
 You will fully document (comment) the C++ source code with appropriate comments including:
 A brief explanation of the purpose of each module (Sub) at the beginning of each Sub. (A header's comment)
 Explanation of the purpose of each variable where it is declared. (An end line comment)
